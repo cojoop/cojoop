@@ -20,8 +20,9 @@
   </div>
 
  <div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-
+  
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/imseunghyunK/Java_projects) 
+  
 <br/><br/><br/><br/><br/>  
 
   

@@ -1,14 +1,23 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=SeungHyun's%20&fontSize=90&fontAlignY=45&animation=fadeIn&fontColor=FFFFFF&desc=GitHub%20Profiles&descAlignY=57&descAlign=75)
 
+<div align="center">
+<h3>🙇‍♀️ Introduction 🙇‍♀️<h3/>
+ </div>
+ 
+ <div align="center">
+ 안녕하세요! 비전공이지만 프로그래밍에 관심이 생겨서 열정을 가지고 공부하고 있어요!<br/>
+처음부터 잘하는 사람은 없다는 생각으로 임하는 개발자 꿈나무입니다💻
+</div>
+
 <br/><br/><br/><br/><br/>
 
   <div align="center">
   <h3>🛠️ Tech Stack 🛠️<h3/>
   </div>
 
-  
+
 <br/><br/><br/><br/><br/>  
- 
+
   
   <div align="center">
   <h3>🚀 SNS List 🚀<h3/>

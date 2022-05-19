@@ -15,6 +15,12 @@
   <h3>🛠️ Tech Stack 🛠️<h3/>
   </div>
 
+ <div align="center">
+ <h4>📌Programming Languages<h4/>
+  </div>
+
+ <div align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <br/><br/><br/><br/><br/>  
 

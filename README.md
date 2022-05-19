@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome%0&fontSize=80&desc=seunghyun's%20%git)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=SeungHyun's%20&fontSize=90&fontAlignY=45&animation=fadeIn&fontColor=FFFFFF&desc=GitHub%20Profiles&descAlignY=57&descAlign=75)
 
 <br/><br/><br/><br/><br/>
 

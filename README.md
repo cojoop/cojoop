@@ -21,7 +21,7 @@
 
  <div align="center">
   
-[![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Projects)
+[![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews)
   
 <br/><br/><br/><br/><br/>  
 

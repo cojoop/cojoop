@@ -21,7 +21,7 @@
 
  <div align="center">
   
-[![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews)
   
 <br/><br/><br/><br/><br/>  
 
@@ -32,7 +32,7 @@
       
   <div align="center">  
     
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlatmxxus_)](https://www.instagram.com/rlatmxxus_) [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-plastic&logo=velog&logoColor=white&link=https://velog.io/@tmdgus8779)](https://velog.io/@tmdgus8779) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:tmdgus8777@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/rla.tmxxus)](https://www.facebook.com/rla.tmxxus)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlatmxxus_)](https://www.instagram.com/rlatmxxus_) [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@tmdgus8779)](https://velog.io/@tmdgus8779) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:tmdgus8777@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/rla.tmxxus)](https://www.facebook.com/rla.tmxxus)
       </div>
     
 <br/><br/><br/><br/><br/>

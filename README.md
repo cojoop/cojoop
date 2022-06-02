@@ -33,7 +33,7 @@
  
  <div align="center">
   
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/imseunghyunK/MySQL_Reviews)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/imseunghyunK/MySQL_Reviews) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://github.com/imseunghyunK/PL-SQL_Reviews)
   
   
 <br/>

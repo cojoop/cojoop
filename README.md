@@ -43,8 +43,11 @@
  </div>
   
  <div align="center">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
-  
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+ </div> 
+ 
+ 
+ 
  <br/><br/><br/><br/><br/>   
   
   <div align="center">

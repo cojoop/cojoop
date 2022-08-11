@@ -21,7 +21,7 @@
 
  <div align="center">
   
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/imseunghyunK/JavaScript_Reviews) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews) 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/imseunghyunK/JavaScript_Reviews) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/imseunghyunK/Python_Reviews)  [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/imseunghyunK/Java_Reviews)
  
   
  <br/>

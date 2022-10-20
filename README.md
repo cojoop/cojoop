@@ -54,7 +54,7 @@
       
   <div align="center">  
     
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmseunh/)](https://www.instagram.com/kmseunh/) [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@tmdgus8779)](https://velog.io/@tmdgus8779) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tmdgus8777@gmail.com)](mailto:tmdgus8777@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/rla.tmxxus)](https://www.facebook.com/rla.tmxxus)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmseunh/)](https://www.instagram.com/kmseunh/) [![Tistory Badge](https://img.shields.io/badge/Tistory-323232?style=flat&logo=Tistory&logoColor=white&link=https://c11oud.tistory.com)](https://c11oud.tistory.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tmdgus8777@gmail.com)](mailto:tmdgus8777@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/rla.tmxxus)](https://www.facebook.com/rla.tmxxus)
       </div>
     
 <br/><br/><br/><br/><br/>

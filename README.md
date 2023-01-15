@@ -33,7 +33,6 @@
  <div align="center">
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
  
- 
  <br/>
  <br/>
  <br/>
@@ -42,7 +41,6 @@
  <h4>📌Database <h4/>
  </div> 
   
- 
  <div align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a> 
@@ -56,8 +54,6 @@
  <div align="center">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <img src="https://img.shields.io/badge/DBeaver-7F6D60?style=flat&logo=DBeaver&logoColor=white"/></a>
  </div> 
- 
- 
  
  <br/><br/><br/><br/><br/>   
   
@@ -75,5 +71,5 @@
  <div align="center">
    
  <h3>☁️ today ☁️<h3/>
-   
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FimseunghyunK&count_bg=%23CEB0BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

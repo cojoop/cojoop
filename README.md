@@ -9,7 +9,7 @@
 처음부터 잘하는 사람은 없다는 생각으로 임하는 백엔드 개발자 꿈나무입니다💻
 </div>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
   <div align="center">
   <h3>🛠️ Tech Stack 🛠️<h3/>

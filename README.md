@@ -9,7 +9,7 @@
 처음부터 잘하는 사람은 없다는 생각으로 임하는 백엔드 개발자 꿈나무입니다💻
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
   <div align="center">
   <h3>🛠️ Tech Stack 🛠️<h3/>
@@ -33,9 +33,7 @@
  <div align="center">
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
  
- <br/>
- <br/>
- <br/>
+ <br/><br/>
  
  <div align="center">
  <h4>📌Database <h4/>
@@ -55,7 +53,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <img src="https://img.shields.io/badge/DBeaver-7F6D60?style=flat&logo=DBeaver&logoColor=white"/></a>
  </div> 
  
- <br/><br/><br/><br/><br/>   
+ <br/><br/>
   
   <div align="center">
   <h3>🚀 SNS List 🚀<h3/>
@@ -66,7 +64,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmseunh/)](https://www.instagram.com/kmseunh/) [![Tistory Badge](https://img.shields.io/badge/Tistory-323232?style=flat&logo=Tistory&logoColor=white&link=https://c11oud.tistory.com)](https://c11oud.tistory.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tmdgus8777@gmail.com)](mailto:tmdgus8777@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/rla.tmxxus)](https://www.facebook.com/rla.tmxxus)
       </div>
     
-<br/><br/><br/><br/><br/>
+<br/><br/>
     
  <div align="center">
    

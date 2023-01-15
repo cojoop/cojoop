@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Seunghyun <br>
 I wanna be a <b>Back-End developer</b>.
 
-- 🌱 I’m currently learning Python, Database.
+- 🌱 I’m currently learning Java, Spring, Python.
 - 💭 I want to study machine learning, AI, Computer Vision.
 - 📫 How to reach me: tmdgus8777@gmail.com
 

@@ -3,7 +3,7 @@ I wanna be a <b>Back-End developer</b>.
 
 - 🌱 I’m currently learning Java, Spring, Python.
 - 💭 I want to study machine learning, AI, Computer Vision.
-- 📫 How to reach me: tmdgus8777@gmail.com
+- 📩 How to reach me: tmdgus8777@gmail.com
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-323232?style=flat-square&logo=Tistory&logoColor=white&link=https://c11oud.tistory.com)](https://c11oud.tistory.com) [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black&link=https://kmseunh.notion.site/4018d6d3868248b0a6fa19620edcecff)](https://kmseunh.notion.site/4018d6d3868248b0a6fa19620edcecff) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmseunh/)](https://www.instagram.com/kmseunh/)
 
@@ -33,7 +33,7 @@ I wanna be a <b>Back-End developer</b>.
 <img src="https://img.shields.io/badge/DBeaver-2E1B0D?style=for-the-badge&logo=">
 </div>
 
-<br>
+<br><br>
 
 ![Top Langs](https://github-readme-stats-kmseunh.vercel.app/api/top-langs/?username=kmseunh&layout=compact&theme=dark)
 

@@ -35,9 +35,7 @@ I wanna be a <b>Back-End developer</b>.
 
 <br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cllouds)](https://solved.ac/cllouds/)&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-kmseunh.vercel.app/api/top-langs/?username=kmseunh&layout=compact&theme=dark)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cllouds)](https://solved.ac/cllouds/) <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmseunh&theme=react&line_height=40&hide=css"/> </a>
 
 <br>
 

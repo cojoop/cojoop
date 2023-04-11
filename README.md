@@ -2,7 +2,7 @@
 I wanna be a <b>Back-End developer</b>.
 
 - 🌱 I’m currently learning Python, JavaScript.
-- 💭 I want to study machine learning, AI, and computer vision later.
+- 💭 I want to study Flutter, machine learning, AI, and computer vision later.
 - 📩 How to reach me: tmdgus8777@gmail.com
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kmseunh)](https://velog.io/@kmseunh) [![Notion Badge](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black&link=https://kmseunh.notion.site/4018d6d3868248b0a6fa19620edcecff)](https://kmseunh.notion.site/4018d6d3868248b0a6fa19620edcecff) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmseunh/)](https://www.instagram.com/kmseunh/)

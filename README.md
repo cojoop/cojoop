@@ -3,7 +3,7 @@ I wanna be a <b>Back-End developer</b>.
 
 - 🌱 I’m currently learning Python, JavaScript.
 - 💭 I want to study Flutter, machine learning, AI, and computer vision later.
-- 📩 How to reach me: tmdgus8777@gmail.com
+- 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 
 **🛠️ My Stack**  

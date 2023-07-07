@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Seunghyun <br>
 I wanna be a <b>Back-End developer</b>.
 
-- 🌱 I’m currently learning Python, JavaScript.
-- 💭 I want to study Flutter, machine learning, AI, and computer vision later.
+- 🌱 I’m currently learning Vue 3, Flask.
+- 💭 I want to study TypeScript, Flutter later.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 

@@ -2,7 +2,7 @@
 I wanna be a <b>Back-End developer</b>.
 
 - 🌱 I’m currently learning React, Flask.
-- 💭 I want to study TypeScript, Next.js later.
+- 💭 I want to study TypeScript, Next.js later.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 

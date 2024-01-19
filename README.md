@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Seunghyun <br>
-I wanna be a <b>Back-End developer</b>.
+I wanna be a developer who makes <b>code deliciously</b>.
 
 - 🌱 I’m currently learning React.
 - 💭 I want to study TypeScript, Next.js later.
@@ -22,8 +22,8 @@ I wanna be a <b>Back-End developer</b>.
 
 <div>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>

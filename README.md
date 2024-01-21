@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Seunghyun <br>
 I wanna be a developer who makes <b>code deliciously</b>.
 
-- 🌱 I’m currently learning React.
-- 💭 I want to study TypeScript, Next.js later.
+- 🌱 I’m currently learning React, TypeScript.
+- 💭 I want to study Next.js later.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 

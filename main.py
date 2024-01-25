@@ -35,8 +35,7 @@ I wanna be a developer who makes <b>code deliciously</b>.
 </div>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FimseunghyunK&count_bg=%23CEB0BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### ✅ Latest Blog Post
+### ✍🏻 Latest Blog Post
 
 """  # list of blog posts will be appended here
 
@@ -46,6 +45,10 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+
+"""
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FimseunghyunK&count_bg=%23CEB0BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+"""
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)

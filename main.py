@@ -35,6 +35,15 @@ I wanna be a developer who makes <b>code deliciously</b>.
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </div>
+<br>
+
+**⚙️ OS**
+
+<div>
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+</div>
+<br>
 
 ### ✍🏻 Latest Blog Post
 

@@ -4,8 +4,8 @@
 ### Hi there 👋, my name is Seunghyun <br>
 I wanna be a developer who makes <b>code deliciously</b>.
 
-- 🌱 I’m currently learning Svelte, SvelteKit.
-- 💭 I want to study TypeScript later.
+- 🌱 I’m currently learning SvelteKit and TypeScript.
+- 💭 I want to study Fast API later.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 

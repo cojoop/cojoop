@@ -4,8 +4,8 @@
 ### Hi there 👋, my name is Seunghyun <br>
 I wanna be a developer who makes <b>code deliciously</b>.
 
-- 🌱 I’m currently learning Svelte, SvelteKit.
-- 💭 I want to study TypeScript later.
+- 🌱 I’m currently learning SvelteKit, TypeScript.
+- 💭 I want to study FastAPI later.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 
@@ -41,3 +41,9 @@ I wanna be a developer who makes <b>code deliciously</b>.
 
 ### ✍🏻 Latest Blog Post
 
+[2024/02/02 - 타임스탬프 우습게 보지마라](https://kmseunh.github.io/post/2024-02-02-html-caching-timestamp-on-real-time-queries/) <br/>
+[2024/01/30 - 괜히 JavsScript로 화면 그린 그날](https://kmseunh.github.io/post/2024-01-30-problems-when-drawing-a-screen-with-javascript/) <br/>
+[2024/01/22 - 기획하는 승현 감성 모르면 나가라](https://kmseunh.github.io/post/2024-01-22-experience-project-planning/) <br/>
+[2024/01/02 - 새해 에러 많이 받으세요(?)](https://kmseunh.github.io/post/2024-01-02-date-issue-as-the-year-changes/) <br/>
+[2023/12/09 - 오라클 DB 간 환경 설정](https://kmseunh.github.io/post/2023-12-09-deliver-oracle-database-data-in-different-environments/) <br/>
+[2023/11/24 - 프로젝트와 클라우드 연관성](https://kmseunh.github.io/post/2023-11-24-how-projects-relate-to-the-cloud/) <br/>

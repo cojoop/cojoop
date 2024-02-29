@@ -15,7 +15,9 @@ I wanna be a developer who makes <b>code deliciously</b>.
 - 📩 How to reach me: tmdgus8779@gmail.com
 <br>
 
-**🛠️ Tech Stack**  
+### 🛠️ Once I've used
+
+**Frontend**
 <div>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -26,7 +28,7 @@ I wanna be a developer who makes <b>code deliciously</b>.
 </div>
 <br>
 
-**💻 Tools**
+**Backend**
 
 <div>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -37,12 +39,28 @@ I wanna be a developer who makes <b>code deliciously</b>.
 </div>
 <br>
 
-**⚙️ OS**
+**Database**
 
 <div>
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=Apple&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 </div>
+<br>
+
+**Framework**
+
+<br>
+
+**Server**
+
+<br>
+
+**Version Control**
+
+<br>
+
+**Communication**
+
 <br>
 
 ### ✍🏻 Latest Blog Post

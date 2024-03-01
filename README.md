@@ -13,19 +13,13 @@
 - ⭐️ Fun fact: I love play soccer and watch it.
 
 ## 🔍 Find me on:
-<div align="center">
-  <a href="mailto:tmdgus8779@google.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/dev.hvun/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/seunghyun-kim-250b562a6/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
+<p align="center">
+  <a href="https://kmseunh.github.io/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://kmseunh.github.io/"/></a>
+  <a href="mailto:tmdgus8779@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tmdgus8779@gmail.com"/></a>
+  <a href="https://www.instagram.com/dev.hvun/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.hvun/"/></a>
+  <a href="https://www.linkedin.com/in/seunghyun-kim-250b562a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyun-kim-250b562a6/"/></a>
+</p>
 
 ## 🛠️ Once I've used:
 

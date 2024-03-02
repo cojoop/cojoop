@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://kmseunh.github.io/index.xml"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
+MAX_POST = 3
 
 markdown_text = """
 

@@ -13,7 +13,7 @@ markdown_text = """
 ## I'm a Department of Computer Science student at Korea National Open University
 
 - 🔥 I’m currently learning FastAPI.
-- 🌱 I'm looking to study Spring Boot soon.
+- 🌱 I'm looking to study Spring Boot soon.
 - 👨‍👩‍👧‍👦 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
 - ⭐️ Fun fact: I love play soccer and watch it.

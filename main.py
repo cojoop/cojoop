@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://kmseunh.github.io/index.xml"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 3
+MAX_POST = 2
 
 markdown_text = """
 
@@ -12,8 +12,8 @@ markdown_text = """
 
 ## I'm a Department of Computer Science student at Korea National Open University
 
-- 🔥 I’m currently learning PostgreSQL.
-- 🌱 I'm looking to study FastAPI soon.
+- 🔥 I’m currently learning FastAPI.
+- 🌱 I'm looking to study Spring Boot soon.
 - 👨‍👩‍👧‍👦 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
 - ⭐️ Fun fact: I love play soccer and watch it.

@@ -14,7 +14,7 @@ markdown_text = """
 
 - 🔥 I’m currently learning FastAPI.
 - 🌱 I'm looking to study Spring Boot soon.
-- 👨‍👩‍👧‍👦 I'm looking to collaborate with anyone on any project.
+- 👥 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
 - ⭐️ Fun fact: I love play soccer and watch it.
 

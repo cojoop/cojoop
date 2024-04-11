@@ -6,11 +6,11 @@
 
 ## I'm a Department of Computer Science student at Korea National Open University
 
-- 🔥 I’m currently learning FastAPI.
-- 🌱 I'm looking to study Spring Boot soon.
+- 🔥 I’m currently learning Django.
+- 🌱 I'm looking to study Django Rest Framework soon.
 - 👥 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
-- ⭐️ Fun fact: I love play soccer and watch it.
+- ⭐️ Fun fact: My favorite baseball team is Detroit Tigers, soccer team is Real Madrid.
 
 ## 🔍 Find me on:
 

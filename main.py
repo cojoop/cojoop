@@ -12,8 +12,8 @@ markdown_text = """
 
 ## I'm a Department of Computer Science student at Korea National Open University
 
-- 🔥 I’m currently learning Java, Spring.
-- 🌱 I'm looking to study PostgreSQL soon.
+- 🔥 I’m currently learning Java.
+- 🌱 I'm looking to study Spring soon.
 - 👥 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
 - ⭐️ Fun fact: My favorite baseball team is Detroit Tigers, soccer team is Real Madrid.

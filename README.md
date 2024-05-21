@@ -65,6 +65,6 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2024/05/21 - signed unsigned 데이터 타입](https://kmseunh.github.io/post/2024-05-20-mac/) <br/>
 [2024/04/23 - 역시 파일 전송은 SFTP](https://kmseunh.github.io/post/2024-04-23-mac/) <br/>
 [2024/03/19 - 김승현 세션 DB 사건](https://kmseunh.github.io/post/2024-03-19-session-db-incident/) <br/>
-[2024/02/18 - 테이블구조를 안본건 너무 심했잖아..](https://kmseunh.github.io/post/2024-02-18-need-to-understand-the-structure-of-database-tables/) <br/>

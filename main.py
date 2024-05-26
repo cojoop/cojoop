@@ -27,7 +27,7 @@ markdown_text = """
   <a href="https://www.linkedin.com/in/seunghyun-kim-250b562a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyun-kim-250b562a6/"/></a>
 </p>
 
-## 🛠️ Once I've used:
+## 🛠️ Tech Stack:
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -54,6 +54,6 @@
 
 ## ✍🏻 Latest Blog Post
 
-[2024/05/21 - signed unsigned 데이터 타입](https://kmseunh.github.io/post/2024-05-20-mac/) <br/>
-[2024/04/23 - 역시 파일 전송은 SFTP](https://kmseunh.github.io/post/2024-04-23-mac/) <br/>
-[2024/03/19 - 김승현 세션 DB 사건](https://kmseunh.github.io/post/2024-03-19-session-db-incident/) <br/>
+[2024/06/24 - 좌충우돌 권한관리 기능 구현하기](https://kmseunh.github.io/post/2024-06-24-implement-authorization-management-functions/) <br/>
+[2024/05/21 - signed unsigned 데이터 타입](https://kmseunh.github.io/post/2024-05-20-signed-unsigned-data-type/) <br/>
+[2024/04/23 - 역시 파일 전송은 SFTP](https://kmseunh.github.io/post/2024-04-23-file-transfer-to-sftp/) <br/>

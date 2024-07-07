@@ -10,7 +10,7 @@
 - 🌱 I'm looking to study Spring soon.
 - 👥 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
-- ⭐️ Fun fact: My favorite baseball team is Detroit Tigers, soccer team is Real Madrid.
+- ⭐️ Fun fact: I watch all the major European football matches live.
 
 ## 🔍 Find me on:
 

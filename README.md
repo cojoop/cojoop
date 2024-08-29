@@ -53,6 +53,6 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2024/08/28 - CI/CD를 구축해보자](https://kmseunh.github.io/post/2024-08-28-install-portainer-and-jenki/) <br/>
 [2024/08/26 - Portainer와 Jenkins를 설치해보자](https://kmseunh.github.io/post/2024-08-26-install-portainer-and-jenkins/) <br/>
 [2024/08/22 - Docker에 Nginx 웹 서버를 구축해 보자](https://kmseunh.github.io/post/2024-08-22-set-up-docker/) <br/>
-[2024/08/20 - Ubuntu 세팅을 해보자](https://kmseunh.github.io/post/2024-08-20-set-up-ubuntu/) <br/>

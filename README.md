@@ -53,6 +53,6 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2024/10/15 - [Review] 나의 두 번째 프로젝트](https://kmseunh.github.io/post/2024-10-15-second-project-review/) <br/>
 [2024/09/05 - 서비스 간 결합도를 줄여보자](https://kmseunh.github.io/post/2024-09-05-reduce-the-degree-of-inter-service-coupling/) <br/>
 [2024/08/28 - CI/CD를 구축해보자](https://kmseunh.github.io/post/2024-08-28-install-portainer-and-jenki/) <br/>
-[2024/08/26 - Portainer와 Jenkins를 설치해보자](https://kmseunh.github.io/post/2024-08-26-install-portainer-and-jenkins/) <br/>

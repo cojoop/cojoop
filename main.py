@@ -13,7 +13,7 @@ markdown_text = """
 ## I'm a Department of Computer Science student at Korea National Open University
 
 - 🔥 I’m currently learning SpringBoot.
-- 🌱 I'm looking to study Next.js soon.
+- 🌱 I'm looking to study Docker & AWS soon.
 - 👥 I'm looking to collaborate with anyone on any project.
 - 💬 Ask me anything.
 - ⭐️ Fun fact: I watch all the major European football matches live.

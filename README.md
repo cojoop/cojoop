@@ -35,22 +35,21 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-</div>
-&nbsp;
-<div align="center">
-  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 &nbsp;
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
 </div>
 
 ## ✍🏻 Latest Blog Post
@@ -60,4 +59,3 @@
 [2025/03/19 - API 요청에서 parameter(Json)과 parameter(Body)의 차이](https://winn-dev.tistory.com/entry/API-%EC%9A%94%EC%B2%AD%EC%97%90%EC%84%9C-parameterJson%EA%B3%BC-parameterBody%EC%9D%98-%EC%B0%A8%EC%9D%B4) <br/>
 [2025/03/15 - Entity에 Setter를 사용하면 안 되는 이유](https://winn-dev.tistory.com/entry/Entity%EC%97%90-Setter%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0) <br/>
 [2025/03/14 - 데이터베이스 테이블 생성: 직접 SQL 작성 vs JPA 사용](https://winn-dev.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1-%EC%A7%81%EC%A0%91-SQL-%EC%9E%91%EC%84%B1-vs-JPA-%EC%82%AC%EC%9A%A9) <br/>
-[2025/03/12 - IP 주소와 Gateway 차이](https://winn-dev.tistory.com/entry/IP-%EC%A3%BC%EC%86%8C%EC%99%80-Gateway-%EC%B0%A8%EC%9D%B4) <br/>

@@ -21,9 +21,8 @@ markdown_text = """
 ## 🔍 Find me on:
 
 <p align="center">
-  <a href="https://kmseunh.github.io/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://kmseunh.github.io/"/></a>
+  <a href="https://winn-dev.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://winn-dev.tistory.com/"/></a>
   <a href="mailto:tmdgus8779@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tmdgus8779@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/seunghyun-kim-250b562a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyun-kim-250b562a6/"/></a>
 </p>
 
 ## 🛠️ Tech Stack:

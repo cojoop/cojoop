@@ -1,8 +1,8 @@
 import feedparser, time
 
-URL = "https://kmseunh.github.io/index.xml"
+URL = "https://winn-dev.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 2
+MAX_POST = 5
 
 markdown_text = """
 

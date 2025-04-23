@@ -23,7 +23,7 @@
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,flask,spring,mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,flask,spring,mysql,oracle" />
 </div>
 &nbsp;
 <div align="center">

@@ -36,8 +36,8 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2025/05/21 - 이미지 업로드 API, Multipart와 JSON 중 어떤 방식을 선택할까?](https://winn-dev.tistory.com/entry/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-API-Multipart%EC%99%80-JSON-%EC%A4%91-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A0%EA%B9%8C) <br/>
+[2025/05/16 - Git Worktree로 브랜치 병렬 개발하기](https://winn-dev.tistory.com/entry/Git-Worktree%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B3%91%EB%A0%AC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) <br/>
+[2025/05/14 - Git에서 특정 파일만 merge하는 방법](https://winn-dev.tistory.com/entry/Git%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%ED%8C%8C%EC%9D%BC%EB%A7%8C-merge%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br/>
+[2025/05/11 - JSP 페이징 오류: maxPage가 NaN인 이유](https://winn-dev.tistory.com/entry/JSP-%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%98%A4%EB%A5%98-maxPage%EA%B0%80-NaN%EC%9D%B8-%EC%9D%B4%EC%9C%A0) <br/>
 [2025/05/09 - @ModelAttribute 제대로 이해하고 쓰기](https://winn-dev.tistory.com/entry/ModelAttribute-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%93%B0%EA%B8%B0) <br/>
-[2025/05/07 - 에이전트(Agent)란?](https://winn-dev.tistory.com/entry/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8Agent%EB%9E%80) <br/>
-[2025/05/02 - localStorage vs Cookie, 언제 어떤 걸 써야 할까?](https://winn-dev.tistory.com/entry/localStorage-vs-Cookie-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%A4-%EA%B1%B8-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
-[2025/04/29 - Spring MVC에서 Controller vs Service: 역할과 책임 구분하기](https://winn-dev.tistory.com/entry/Spring-MVC%EC%97%90%EC%84%9C-Controller-vs-Service-%EC%97%AD%ED%95%A0%EA%B3%BC-%EC%B1%85%EC%9E%84-%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) <br/>
-[2025/04/24 - MyBatis의 &lt;foreach&gt; 태그로 리스트 형태의 데이터를 INSERT하는 방법](https://winn-dev.tistory.com/entry/MyBatis%EC%9D%98-foreach-%ED%83%9C%EA%B7%B8%EB%A1%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%98%95%ED%83%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-INSERT%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br/>

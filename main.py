@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://winn-dev.tistory.com/rss"
+URL = "https://cojoop.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 4
 

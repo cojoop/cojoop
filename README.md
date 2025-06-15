@@ -36,6 +36,7 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2025/06/14 - [OCI] 개인 서버 구축하기(5)](https://cojoop.tistory.com/entry/OCI-%EA%B0%9C%EC%9D%B8-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B05) <br/>
 [2025/06/12 - [OCI] 개인 서버 구축하기(4)](https://cojoop.tistory.com/entry/OCI-%EA%B0%9C%EC%9D%B8-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B04) <br/>
 [2025/06/12 - [OCI] 개인 서버 구축하기(3)](https://cojoop.tistory.com/entry/OCI-%EA%B0%9C%EC%9D%B8-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B03) <br/>
 [2025/06/11 - [OCI] 개인 서버 구축하기(2)](https://cojoop.tistory.com/entry/OCI-%EA%B0%9C%EC%9D%B8-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B02) <br/>

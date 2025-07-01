@@ -11,7 +11,7 @@ markdown_text = """
 💻 Junior Backend Developer
 
 - 🔥 Currently learning **Spring Boot**
-- 🌊 Planning to dive into **Docker** & **AWS**
+- 🌊 Planning to dive into **Redis** & **Kafka**
 - 🤝 Open to collaboration on any project
 - ⚽ Fun fact: I watch *all* the major European football matches live!
 

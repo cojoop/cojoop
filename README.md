@@ -31,7 +31,7 @@
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver,eclipse,idea,vscode,vim" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver,eclipse,idea,vscode,vim,postman" />
 </div>
 
 ## ✍🏻 Latest Blog Post

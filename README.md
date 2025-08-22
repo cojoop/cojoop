@@ -36,8 +36,8 @@
 
 ## ✍🏻 Latest Blog Post
 
+[2025/08/22 - build와 up의 차이점과 활용법](https://cojoop.tistory.com/entry/build%EC%99%80-up%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC-%ED%99%9C%EC%9A%A9%EB%B2%95) <br/>
 [2025/08/21 - Docker Compose 로그 출력 제어법](https://cojoop.tistory.com/entry/Docker-Compose-%EB%A1%9C%EA%B7%B8-%EC%B6%9C%EB%A0%A5-%EC%A0%9C%EC%96%B4%EB%B2%95) <br/>
 [2025/08/19 - Docker Compose란?](https://cojoop.tistory.com/entry/Docker-Compose%EB%9E%80) <br/>
 [2025/08/19 - Docker란?](https://cojoop.tistory.com/entry/Docker%EB%9E%80) <br/>
 [2025/08/08 - Log4j2 RoutingAppender vs RollingFileAppender](https://cojoop.tistory.com/entry/Log4j2-RoutingAppender-vs-RollingFileAppender) <br/>
-[2025/08/07 - Spring 로그 분리 전략(Feat. MDC)](https://cojoop.tistory.com/entry/Spring-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EB%A6%AC-%EC%A0%84%EB%9E%B5Feat-MDC) <br/>

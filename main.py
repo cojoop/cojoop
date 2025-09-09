@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://cojoop.tistory.com/rss"
+URL = "https://v2.velog.io/rss/cojoop"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 4
 
